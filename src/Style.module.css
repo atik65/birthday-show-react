@@ -1,0 +1,25 @@
+.main {
+  height: 100vh;
+  background-color: #dadada;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border-radius: 5px;
+  padding: 25px;
+  width: 40%;
+  background-color: #dadada;
+  box-shadow: -2px -2px 5px #ffffff, 2px 2px 3px #505050;
+}
+.bd {
+  background-color: mediumaquamarine;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+}
+button {
+  border: red;
+}
